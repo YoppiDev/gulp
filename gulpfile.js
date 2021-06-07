@@ -196,7 +196,7 @@ const clean = () => {
 const watches = () => {
 	browsersync.init({
 		server: {
-			baseDir: build
+			baseDir: build + "/"
 		},
 		tunnel: 'mygulpsite2',
 		port: 3000,
