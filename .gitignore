@@ -1,0 +1,12 @@
+.idea
+.env
+.vscode
+
+/build
+/node_modules
+package-lock.json
+
+# Windows files
+.DS_Store
+Thumbs.db
+desktop.ini
